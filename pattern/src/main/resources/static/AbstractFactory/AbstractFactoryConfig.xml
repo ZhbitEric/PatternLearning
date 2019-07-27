@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>com.xrd.pattern._03AbstractFactoryPattern.factory.IOSControllerFactory</className>
+</config>
